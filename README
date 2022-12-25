@@ -1,10 +1,7 @@
-1. Google Colabのウェブサイトにアクセスします：https://colab.research.google.com/
-2. 「ファイル」メニューをクリックし、「ノートブックを開く」を選択します。
-3. ポップアップウィンドウで「GitHub」タブをクリックします。
-4. 「GitHubのURLを入力するか、組織またはユーザーで検索」フィールドに以下のURL
-（https://raw.githubusercontent.com/HatchySyow/Recipe-Search-System-Using-Image-Recognition/main/main.ipynb）
-を入力し、検索ボタンを押します。
-5. ノートブックを新しいタブで開く ボタンを押すと，プログラムが展開されます。
+Google アカウントを用意していただき，ブラウザ上でログインした状態で以下のURLをクリックしてください．
+Google Colaboratory上で動作するため，PC，モバイル共通で動作します．
+
+https://colab.research.google.com/github/HatchySyow/Recipe-Search-System-Using-Image-Recognition/blob/main/main.ipynb
 
 ノートブックの操作方法
 
